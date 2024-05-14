@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App_FoodDelivery</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_show_details">ShowDetailsActivity</string>
+    <string name="title_activity_show_detail" />
+    <string name="title_activity_main" />
+    <string name="title_activity_intro" />
+</resources>
